@@ -1,0 +1,33 @@
+{
+  "name": "jquery-capitalize",
+  "version": "1.0.0",
+  "description": "Capitalize proper names (persons, places etc)",
+  "main": "src/jquery.validate.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "~3.8.6",
+    "gulp-uglify": "~0.3.1",
+    "gulp-rename": "~1.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fonini/jquery-capitalize.git"
+  },
+  "keywords": [
+    "forms",
+    "capitalization",
+    "capitalize"
+  ],
+  "author": {
+    "name": "Jonnas Fonini",
+    "email": "contato@fonini.net",
+    "url": "http://fonini.net"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fonini/jquery-capitalize/issues"
+  }
+}

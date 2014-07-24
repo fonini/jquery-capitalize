@@ -1,0 +1,26 @@
+{
+  "name": "jquery-capitalize",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fonini/jquery-capitalize.git"
+  },
+  "authors": [
+    "Jonnas Fonini <contato@fonini.net>"
+  ],
+  "description": "Capitalize proper names (persons, places etc)",
+  "main": "dist/jquery.capitalize.min.js",
+  "keywords": [
+    "forms",
+    "capitalization",
+    "capitalize"
+  ],
+  "ignore": [
+    "/.*",
+    "demo",
+	"node_modules",
+	"src"
+  ],
+  "license": "MIT",
+  "homepage": "http://fonini.net"
+}
