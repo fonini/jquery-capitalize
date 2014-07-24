@@ -1,6 +1,6 @@
 {
   "name": "jquery-capitalize",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/fonini/jquery-capitalize.git"
@@ -21,6 +21,9 @@
 	"node_modules",
 	"src"
   ],
+  "dependencies": {
+    "jquery": ">=1.5"
+  },
   "license": "MIT",
   "homepage": "http://fonini.net"
 }
