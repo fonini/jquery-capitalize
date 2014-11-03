@@ -1,6 +1,6 @@
 {
   "name": "jquery-capitalize",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Capitalize proper names (persons, places etc)",
   "main": "src/jquery.validate.js",
   "dependencies": {},

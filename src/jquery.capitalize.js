@@ -40,7 +40,7 @@
 
       str = str.replace(NN_REGEX_MULTIPLE_SPACES, NN_SPACE);
 
-      str = str.replace(/\w\S*/g, function(txt) {
+      str = str.replace(/[A-Za-z0-9àÀâÂäÄáÁéÉèÈêÊëËìÌîÎïÏòÒôÔöÖùÙûÛüÜçÇ’ñ]*\S*/g, function(txt) {
         return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
       });
 

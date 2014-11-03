@@ -52,6 +52,7 @@ $(document).ready(function(){
 | ruA DA praça xv 	| Rua da Praça XV  	|
 | jonnas fonini   	| Jonnas Fonini    	|
 | LOUIS VAN GAAL  	| Louis van Gaal   	|
+| áREa de teRra  	| Área de Terra   	|
 
 
 ## License
