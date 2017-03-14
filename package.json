@@ -1,8 +1,8 @@
 {
   "name": "jquery-capitalize",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Capitalize proper names (persons, places etc)",
-  "main": "src/jquery.validate.js",
+  "main": "src/jquery.capitalize.js",
   "dependencies": {},
   "devDependencies": {
     "gulp": "~3.8.6",
@@ -23,8 +23,8 @@
   ],
   "author": {
     "name": "Jonnas Fonini",
-    "email": "contato@fonini.net",
-    "url": "http://fonini.net"
+    "email": "jonnasfonini@gmail.com",
+    "url": "https://fonini.github.io"
   },
   "license": "MIT",
   "bugs": {

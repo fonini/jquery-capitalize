@@ -6,18 +6,19 @@ The jQuery Capitalize Plugin provides capitalization for your inputs fields (or 
 
 ## Getting Started
 
-You have three choices to get the plugin:
+How to get the plugin:
 
+### Install it with npm
 
-### Download latest release
-
-Download the [latest release](https://github.com/fonini/jquery-capitalize/releases)
-
+`npm install jquery-capitalize`
 
 ### Install it with Bower
 
 `bower install jquery-capitalize`
 
+### Download the latest release
+
+Download the [latest release](https://github.com/fonini/jquery-capitalize/releases)
 
 ### Download the latest changes
 
@@ -29,7 +30,7 @@ Download the [latest release](https://github.com/fonini/jquery-capitalize/releas
 
 ## Using the plugin
 
-Include jQuery and the plugin on a page. Apply the plugin to the elements you want.
+Include jQuery and the plugin on a page. Apply the plugin on the elements you want.
 
 ```html
 <input type="text" id="name" />
@@ -55,6 +56,10 @@ $(document).ready(function(){
 | áREa de teRra  	| Área de Terra   	|
 
 
+## Thanks
+
+Thanks to [Fausto Gonçalves Cintra](https://twitter.com/fgcintra) for the original PHP code.
+
 ## License
 
-Copyright (c) 2014 Jonnas Fonini. Licensed under the MIT license.
+Copyright (c) 2017 Jonnas Fonini. Licensed under the MIT license.
